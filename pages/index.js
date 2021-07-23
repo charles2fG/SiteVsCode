@@ -1,6 +1,6 @@
 function Home() {
 
-    return <div>Home</div>
+    return <h1>Charles Ferraz</h1>
 
 }
 
